@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1672920408,,"wq"
+|2,0,1672923403,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -26,25 +26,41 @@
 
 # File marks:
 '0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1672920408,"~/.git/COMMIT_EDITMSG"
-'1  5  57  ~/Jenkinsfile
-|4,49,5,57,1672919173,"~/Jenkinsfile"
-'2  1  0  ~/Jenkinsfile
-|4,50,1,0,1672919081,"~/Jenkinsfile"
+|4,48,1,0,1672923403,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1672920408,"~/.git/COMMIT_EDITMSG"
+'2  5  57  ~/Jenkinsfile
+|4,50,5,57,1672919173,"~/Jenkinsfile"
 '3  1  0  ~/Jenkinsfile
 |4,51,1,0,1672919081,"~/Jenkinsfile"
+'4  1  0  ~/Jenkinsfile
+|4,52,1,0,1672919081,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1672923403,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1672920408,"~/.git/COMMIT_EDITMSG"
 -'  5  57  ~/Jenkinsfile
 |4,39,5,57,1672919173,"~/Jenkinsfile"
 -'  5  57  ~/Jenkinsfile
 |4,39,5,57,1672919173,"~/Jenkinsfile"
+-'  5  57  ~/Jenkinsfile
+|4,39,5,57,1672919173,"~/Jenkinsfile"
+-'  5  57  ~/Jenkinsfile
+|4,39,5,57,1672919173,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1672919109,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1672919109,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1672919109,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1672919109,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1672919081,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1672919081,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1672919081,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
@@ -53,7 +69,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1672920406	0
+	*	1672923402	0
 	"	1	0
 
 > ~/Jenkinsfile
